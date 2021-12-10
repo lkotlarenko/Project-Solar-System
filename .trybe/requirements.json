@@ -1,0 +1,44 @@
+{
+  "requirements": [
+    {
+      "description": "1 - Crie um componente chamado `Header`",
+      "bonus": false
+    },
+    {
+      "description": "2 - Crie um componente chamado `SolarSystem`",
+      "bonus": false
+    },
+    {
+      "description": "3 - Crie um componente chamado `Title`",
+      "bonus": false
+    },
+    {
+      "description": "4 - Renderize o componente `Title` dentro do componente `SolarSystem`",
+      "bonus": false
+    },
+    {
+      "description": "5 - Crie um componente chamado `PlanetCard`",
+      "bonus": false
+    },
+    {
+      "description": "6 - Renderize uma lista com os planetas do Sistema Solar",
+      "bonus": false
+    },
+    {
+      "description": "7 - Crie um componente chamado `Missions`",
+      "bonus": false
+    },
+    {
+      "description": "8 - Renderize o componente `Title` dentro do componente `Missions`",
+      "bonus": false
+    },
+    {
+      "description": "9 - Crie um componente chamado `MissionCard`",
+      "bonus": false
+    },
+    {
+      "description": "10 - Renderize uma lista com as missões espaciais",
+      "bonus": false
+    }
+  ]
+}
