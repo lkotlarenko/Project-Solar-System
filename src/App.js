@@ -6,7 +6,7 @@ class App extends React.Component {
   render() {
     return (
       <>
-        <Header headerTitle="Sistema Solar" />
+        <Header />
         <SolarSystem data="test" />
         <Title headline="batata" />
       </>
