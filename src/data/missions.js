@@ -1,7 +1,7 @@
 const USA = 'Estados Unidos';
 const URSS = 'URSS';
 
-const Missions = [
+const MissionsData = [
   {
     name: 'Apollo 11',
     year: '1960',
@@ -124,4 +124,4 @@ const Missions = [
   },
 ];
 
-export default Missions;
+export default MissionsData;
