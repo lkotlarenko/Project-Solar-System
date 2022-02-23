@@ -1,3 +1,4 @@
+//* This file may have parts of it written by @jeanpsv
 const USA = 'Estados Unidos';
 const URSS = 'URSS';
 
